@@ -9,6 +9,7 @@ DistributedArrays = "aaf54ef3-cdf8-58ed-94cc-d582ad619b94"
 Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 
 [compat]
+CUDA = "3"
 julia = ">= 1.5"
 
 [extras]
